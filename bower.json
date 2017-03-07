@@ -1,0 +1,22 @@
+{
+  "name": "openui5-runtime",
+  "homepage": "https://github.com/jmpridgen/openui5",
+  "authors": [
+    "Max Pridgen <jmpridgen@gmail.com>"
+  ],
+  "description": "Fork of the openui5 runtime for use with bower",
+  "main": "/resources/sap-ui-core.js",
+  "keywords": [
+    "openui5",
+    "runtime",
+    "sap"
+  ],
+  "license": "Apache",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
